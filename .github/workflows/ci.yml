@@ -13,5 +13,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run a simple command
-        run: echo "This is my pipeline run"
-        
+        run: echo "This is Devops class"
