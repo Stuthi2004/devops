@@ -14,3 +14,11 @@ jobs:
 
       - name: Run a simple command
         run: echo "This is Devops class"
+    
+      - name: step1
+        run: echo "This is step1"
+
+      - name: step2
+        run: echo "This is step2"
+
+      
